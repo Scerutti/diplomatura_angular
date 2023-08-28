@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #f0f0f09b;
+}
+
+.container {
+  text-align: center;
+  padding: 10px;
+}
+
+input {
+  font-size: 0.8rem;
+}
+
+h1 {
+  margin-top: 20px;
+  font-size: 1.8rem;
+}
